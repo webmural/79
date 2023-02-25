@@ -26,6 +26,10 @@ article {
   flex-flow: column;
 }
 
+s {
+  text-decoration: double overline;
+}
+
 h1 {
   font-family: fantasy;
   font-size: 2em;
