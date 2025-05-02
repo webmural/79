@@ -1,6 +1,3 @@
-## [muah mural](https://webmural.com/muah)
+## [79 mural](https://webmural.com/79)
 
-* [mesh](https://webmural.com/dialon)
-* [universe](https://webmural.com/mu)
-* [`anywhere`](space.css)
-* [`hotpink`](spice.css)
+[fantasy energy](space.css) and [7 stream gradient](spice.css)
